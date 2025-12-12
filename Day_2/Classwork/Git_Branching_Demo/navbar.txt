@@ -1,0 +1,29 @@
+Steps to Create a Navbar for an Online Student Portal
+
+1.  Plan the Navbar Structure
+    -   Identify main sections: Home, About Us, Courses
+        Login/Logout.
+    -   Decide if you need dropdown menus.
+2.  Create the Basic HTML Structure
+    -   Use <nav> tag.
+    -   Add brand/logo section.
+    -   Add <ul> with <li> items for links.
+3.  Add CSS for Styling
+    -   Set background color.
+    -   Align items using flexbox.
+    -   Add padding and hover effects.
+4.  Make Navbar Responsive
+    -   Use media queries.
+    -   Add hamburger menu for mobile view.
+    -   Hide/show links based on screen size.
+5.  Add JavaScript for Mobile Toggle
+    -   Toggle menu visibility when hamburger icon is clicked.
+6.  Integrate with Student Portal Pages
+    -   Link navbar items to actual pages.
+    -   Highlight active page.
+7.  Test Across Devices
+    -   Check mobile, tablet, and desktop views.
+    -   Ensure links work properly.
+8.  Final Deployment
+    -   Minify CSS/JS.
+    -   Place navbar code in a reusable file (header.html).

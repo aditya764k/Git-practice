@@ -1,0 +1,16 @@
+Video player feature 
+
+Features:
+1.play video
+2.pause video
+3.stop video
+4.Forward and rewind 
+5.Increase and decrease volume 
+6. Fullscreen mode
+7. Support for MP4, MKV, AVI formats
+
+
+Future updates:
+1.Add subtitles support
+2.Add playback speed control
+3.Add playlist

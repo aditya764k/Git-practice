@@ -1,0 +1,31 @@
+1. Set your username
+
+	This name appears in commit history.
+
+	git config --global user.name "Your Name"
+
+2. Set your email
+
+	This must be the same email you use for GitHub.
+
+	git config --global user.email "your-email@example.com"
+
+3. Set your default branch to main
+
+	(Some Git installations still use “master”.)
+
+	git config --global init.defaultBranch main
+
+4. Enable helpful colored output
+	git config --global color.ui auto
+
+5. Check if everything is correct
+	git config --global --list
+
+
+You should see:
+
+	user.name=Your Name
+	user.email=your-email@example.com
+	init.defaultbranch=main
+	color.ui=auto
